@@ -6,7 +6,7 @@ CADDYIndexPage=https://gitee.com/zhangchenhao15/yraycore/releases/download/v1.5.
 CONFIGCADDY=https://github.com/OrgSnow/Anothertest/blob/main/etc/Caddyfile
 CONFIGYRAY=https://github.com/OrgSnow/Anothertest/blob/main/etc/yray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
-StoreFiles=https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/StoreFiles
+StoreFiles=https://github.com/OrgSnow/Anothertest/blob/main/etc/StoreFiles
 #PORT=4433
 mkdir -p /etc/caddy/ /usr/share/caddy && echo -e "User-agent: *\nDisallow: /" >/usr/share/caddy/robots.txt
 wget $CADDYIndexPage -O /usr/share/caddy/index.html && unzip -qo /usr/share/caddy/index.html -d /usr/share/caddy/ && mv /usr/share/caddy/*/* /usr/share/caddy/
