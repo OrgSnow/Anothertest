@@ -31,7 +31,7 @@
             "streamSettings": {"network": "ws","wsSettings": {"path": "/$AUUID-socks"}}
         }
     ],
-    
+// test for not!!!
     "outbounds": 
     [
         {"protocol": "freedom","tag": "direct","settings": {}},
