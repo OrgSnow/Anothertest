@@ -2,7 +2,7 @@
 
 # configs
 AUUID=24b4b1e1-7a89-45f6-858c-242cf53b5bdb
-CADDYIndexPage=https://gitee.com/zhangchenhao15/yraycore/releases/download/v1.5.8/mikuta-master.zip
+CADDYIndexPage=https://github.com/sandhikagalih/simple-landing-page/archive/master.zip
 CONFIGCADDY=https://github.com/OrgSnow/Anothertest/blob/main/etc/Caddyfile
 CONFIGYRAY=https://github.com/OrgSnow/Anothertest/blob/main/etc/yray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
